@@ -1,0 +1,23 @@
+# Logs
+logs/
+logs/train/
+
+# Model files
+models/
+saved_models/
+
+# MLflow runs
+mlruns/
+
+# Data files (if large or generated)
+
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+my_venv

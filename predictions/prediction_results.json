@@ -1,0 +1,244 @@
+[
+    {
+        "file_name": "b(1).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9942171573638916,
+        "probabilities": {
+            "blackspot": 0.9942171573638916,
+            "canker": 0.0052603161893785,
+            "fresh": 4.07312109018676e-05,
+            "grenning": 0.00048176059499382973
+        }
+    },
+    {
+        "file_name": "b(10).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9124490022659302,
+        "probabilities": {
+            "blackspot": 0.9124490022659302,
+            "canker": 0.08641806244850159,
+            "fresh": 0.0009653041488490999,
+            "grenning": 0.0001675704406807199
+        }
+    },
+    {
+        "file_name": "b(11).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9771933555603027,
+        "probabilities": {
+            "blackspot": 0.9771933555603027,
+            "canker": 0.022380443289875984,
+            "fresh": 0.0001397968881065026,
+            "grenning": 0.0002864536945708096
+        }
+    },
+    {
+        "file_name": "b(12).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9860959649085999,
+        "probabilities": {
+            "blackspot": 0.9860959649085999,
+            "canker": 0.01295569445937872,
+            "fresh": 0.00022150538279674947,
+            "grenning": 0.0007269001216627657
+        }
+    },
+    {
+        "file_name": "b(13).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9916523098945618,
+        "probabilities": {
+            "blackspot": 0.9916523098945618,
+            "canker": 0.007764851208776236,
+            "fresh": 8.641577733214945e-05,
+            "grenning": 0.0004964194376952946
+        }
+    },
+    {
+        "file_name": "b(14).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.7351404428482056,
+        "probabilities": {
+            "blackspot": 0.7351404428482056,
+            "canker": 0.263628214597702,
+            "fresh": 0.000940194760914892,
+            "grenning": 0.00029121371335349977
+        }
+    },
+    {
+        "file_name": "b(15).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.7944328784942627,
+        "probabilities": {
+            "blackspot": 0.7944328784942627,
+            "canker": 0.20438474416732788,
+            "fresh": 0.0007311046938411891,
+            "grenning": 0.0004512845480348915
+        }
+    },
+    {
+        "file_name": "b(16).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9983975291252136,
+        "probabilities": {
+            "blackspot": 0.9983975291252136,
+            "canker": 0.0012723609106615186,
+            "fresh": 4.198517672193702e-06,
+            "grenning": 0.00032596068922430277
+        }
+    },
+    {
+        "file_name": "b(17).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9971711039543152,
+        "probabilities": {
+            "blackspot": 0.9971711039543152,
+            "canker": 0.0020991493947803974,
+            "fresh": 1.1245070709264837e-05,
+            "grenning": 0.0007184543064795434
+        }
+    },
+    {
+        "file_name": "b(18).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9961643218994141,
+        "probabilities": {
+            "blackspot": 0.9961643218994141,
+            "canker": 0.002521572168916464,
+            "fresh": 4.065543907927349e-05,
+            "grenning": 0.0012734836200252175
+        }
+    },
+    {
+        "file_name": "b(19).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9962266683578491,
+        "probabilities": {
+            "blackspot": 0.9962266683578491,
+            "canker": 0.003640823531895876,
+            "fresh": 5.697422693629051e-06,
+            "grenning": 0.00012687293929047883
+        }
+    },
+    {
+        "file_name": "b(2).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9001532196998596,
+        "probabilities": {
+            "blackspot": 0.9001532196998596,
+            "canker": 0.09871093928813934,
+            "fresh": 0.00025594449834898114,
+            "grenning": 0.0008799491333775222
+        }
+    },
+    {
+        "file_name": "b(20).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.8867691159248352,
+        "probabilities": {
+            "blackspot": 0.8867691159248352,
+            "canker": 0.09050343930721283,
+            "fresh": 0.01776127889752388,
+            "grenning": 0.004966170992702246
+        }
+    },
+    {
+        "file_name": "b(21).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9073125123977661,
+        "probabilities": {
+            "blackspot": 0.9073125123977661,
+            "canker": 0.09160848706960678,
+            "fresh": 0.0007588281878270209,
+            "grenning": 0.00032012720475904644
+        }
+    },
+    {
+        "file_name": "b(22).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.6581255197525024,
+        "probabilities": {
+            "blackspot": 0.6581255197525024,
+            "canker": 0.34025970101356506,
+            "fresh": 0.0012067774077877402,
+            "grenning": 0.0004080118960700929
+        }
+    },
+    {
+        "file_name": "b(3).jpg",
+        "predicted_class": "canker",
+        "confidence": 0.746560275554657,
+        "probabilities": {
+            "blackspot": 0.2481522411108017,
+            "canker": 0.746560275554657,
+            "fresh": 0.004825184121727943,
+            "grenning": 0.00046224065590649843
+        }
+    },
+    {
+        "file_name": "b(4).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.7242899537086487,
+        "probabilities": {
+            "blackspot": 0.7242899537086487,
+            "canker": 0.27547597885131836,
+            "fresh": 0.00010866410593735054,
+            "grenning": 0.00012538139708340168
+        }
+    },
+    {
+        "file_name": "b(5).jpg",
+        "predicted_class": "canker",
+        "confidence": 0.8884616494178772,
+        "probabilities": {
+            "blackspot": 0.11133580654859543,
+            "canker": 0.8884616494178772,
+            "fresh": 0.00018479603750165552,
+            "grenning": 1.7650532754487358e-05
+        }
+    },
+    {
+        "file_name": "b(6).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9948315024375916,
+        "probabilities": {
+            "blackspot": 0.9948315024375916,
+            "canker": 0.00495358370244503,
+            "fresh": 8.904655260266736e-06,
+            "grenning": 0.00020610689534805715
+        }
+    },
+    {
+        "file_name": "b(7).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9915043711662292,
+        "probabilities": {
+            "blackspot": 0.9915043711662292,
+            "canker": 0.00794836413115263,
+            "fresh": 1.806641557777766e-05,
+            "grenning": 0.0005291369743645191
+        }
+    },
+    {
+        "file_name": "b(8).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.9889345765113831,
+        "probabilities": {
+            "blackspot": 0.9889345765113831,
+            "canker": 0.010897613130509853,
+            "fresh": 3.44619584211614e-05,
+            "grenning": 0.0001333419349975884
+        }
+    },
+    {
+        "file_name": "b(9).jpg",
+        "predicted_class": "blackspot",
+        "confidence": 0.6230695247650146,
+        "probabilities": {
+            "blackspot": 0.6230695247650146,
+            "canker": 0.37254029512405396,
+            "fresh": 0.003992891870439053,
+            "grenning": 0.0003972452541347593
+        }
+    }
+]
