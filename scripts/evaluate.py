@@ -1,7 +1,11 @@
 import argparse
+import os
+import sys
 import json
 import tensorflow as tf
 from tensorflow.keras.models import load_model
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utils.data_loader import create_data_generators
 from utils.model_utils import load_config, evaluate_model
 

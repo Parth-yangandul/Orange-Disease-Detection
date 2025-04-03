@@ -1,10 +1,13 @@
 import os
+import sys
 import argparse
 import json
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utils.model_utils import load_config
 
 def load_and_preprocess_image(img_path, img_size):

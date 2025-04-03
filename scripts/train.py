@@ -1,10 +1,13 @@
 import os
+import sys
 import argparse
 import tensorflow as tf
 import mlflow
 import mlflow.keras
 from tensorflow.keras.optimizers import Adam, SGD
 from models.cnn_model import create_model
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utils.data_loader import create_data_generators
 from utils.model_utils import load_config, create_callbacks, evaluate_model
 

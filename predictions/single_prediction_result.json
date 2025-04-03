@@ -1,11 +1,11 @@
 {
-    "file_name": "b(2).jpg",
+    "file_name": "b(10).jpg",
     "predicted_class": "blackspot",
-    "confidence": 0.9001532196998596,
+    "confidence": 0.9124490022659302,
     "probabilities": {
-        "blackspot": 0.9001532196998596,
-        "canker": 0.09871093928813934,
-        "fresh": 0.00025594449834898114,
-        "grenning": 0.0008799491333775222
+        "blackspot": 0.9124490022659302,
+        "canker": 0.08641806244850159,
+        "fresh": 0.0009653041488490999,
+        "grenning": 0.0001675704406807199
     }
 }
