@@ -3,8 +3,7 @@ logs/
 logs/train/
 
 # Model files
-models/
-saved_models/
+
 
 # MLflow runs
 mlruns/
